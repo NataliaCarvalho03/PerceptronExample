@@ -1,3 +1,0 @@
-/home/natalia/Documentos/Tutoriais/Perceptron/PerceptronExample/build/CMakeFiles/rebuild_cache.dir
-/home/natalia/Documentos/Tutoriais/Perceptron/PerceptronExample/build/CMakeFiles/edit_cache.dir
-/home/natalia/Documentos/Tutoriais/Perceptron/PerceptronExample/build/CMakeFiles/../bin/Perceptron.dir
