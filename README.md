@@ -8,11 +8,11 @@ A simple Perceptron Example applied on Digital Image Processing
 
 # How to build it:
 
-- Open a terminal and clone this repo by the command:
+Open a terminal and clone this repo by the command:
 
 git clone https://github.com/NataliaCarvalho03/PerceptronExample
 
-- Execute the following commands:
+Execute the following commands:
 
 cd build
 cmake ../src/
