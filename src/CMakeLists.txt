@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(Perceptron)
+find_package( OpenCV REQUIRED )
+add_executable( ../bin/Perceptron Perceptron.cpp ../example/perceptron_process.cpp )
+target_link_libraries( ../bin/Perceptron ${OpenCV_LIBS} )
